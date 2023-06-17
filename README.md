@@ -8,4 +8,7 @@ Introduction to API Reconnaissance
 
 3. Private APIs are intended for use, privately, within an organization. These APIs are often documented less than partner APIS, if at all, and if any documentation exists it is even harder to find.
 
+
+Private APIs are intended for use, privately, within an organization. These APIs are often documented less than partner APIS, if at all, and if any documentation exists it is even harder to find.
+
  
